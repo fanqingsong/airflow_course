@@ -1,1 +1,4 @@
 dbt
+apache-airflow-providers-snowflake
+
+

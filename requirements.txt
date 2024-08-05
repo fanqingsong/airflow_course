@@ -1,3 +1,5 @@
+yfinance==0.1.63
+dbt
 alembic==1.6.5
 anyio==3.2.1
 apache-airflow==2.1.2
